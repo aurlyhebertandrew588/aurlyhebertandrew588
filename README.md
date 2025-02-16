@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm aurlyhebertandrew588
 
-<!--
-**aurlyhebertandrew588/aurlyhebertandrew588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏏 🎣 🚣 🌈 Fascinated by content creation 🏏 🎣 🚣 🌈
 
-Here are some ideas to get you started:
+## About Me
+🌈 🛼 🏓 🏒 A freak in blockchain 🌈 🛼 🏓 🏒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎮 🏸 🎮 ✨ A student of cybersecurity 🎮 🏸 🎮 ✨
+
+### Fun Facts
+🎯 🎳 A programmer in system programming 🎯 🎳
+
+---
+🔥 📚 🎰 🚣 🏑 Thanks for visiting my profile! 🎪 🎰 🏒 🚵 🛹
